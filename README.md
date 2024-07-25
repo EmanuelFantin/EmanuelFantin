@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ibb.co/DDFyPk1"/>
+  <img src="https://github.com/EmanuelFantin/web-portfolio-emanuelfantin/blob/main/banner-github.png">
 </p>
 <br>
 
