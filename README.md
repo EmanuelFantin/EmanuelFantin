@@ -6,8 +6,7 @@
 
 ## Sobre Mí
 
-<p>Mi principal área de conocimiento y dedicación a día de hoy es el desarrollo frontend de aplicaciones realizadas con tecnología web. Esto incluye desde landing pages y SPAs, hasta complejos portales y tiendas online.
-Además, realizo aplicaciones multiplataforma utilizando lenguajes como Java o Python y otras mediante tecnología web con JavaScript, utilizando frameworks como React y Angular.
+<p>Mi principal área de conocimiento y dedicación a día de hoy es el desarrollo frontend de aplicaciones realizadas con tecnología web con JavaScript, utilizando frameworks como React y Angular. Esto incluye desde landing pages y SPAs, hasta complejos portales y tiendas online.
 También dispongo de habilidades y amplia experiencia en diseño gráfico, creando logos, tarjetas, entre otros.
 Otra área de mi interés es el SEO, la seguridad informática y el hacking ético.
 
